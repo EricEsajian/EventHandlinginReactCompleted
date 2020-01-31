@@ -1,2 +1,0 @@
-# EventHandlinginReactCompleted
-Created with CodeSandbox
